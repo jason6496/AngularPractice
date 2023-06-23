@@ -1,1 +1,1 @@
-# AngularTemplate
+# AngularPractice
